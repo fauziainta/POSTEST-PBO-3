@@ -47,8 +47,8 @@ b. Menerapkan inheritance (minimal memiliki 1 superclass dengan 2 subclass) : Pe
 
 1. Inheritance
    - Pewarisan dengan membuat superclass dan subclass
-     - superclass : 'Person'
-     - subclass : 'Customer' & 'VIPCustomer'
+     - superclass : `Person`
+     - subclass : `Customer` & `VIPCustomer`
     
 ## Penerapan Nilai Tambah
 1. Overriding
