@@ -49,10 +49,33 @@ b. Menerapkan inheritance (minimal memiliki 1 superclass dengan 2 subclass) : Pe
    - Pewarisan dengan membuat superclass dan subclass
      - superclass : `Person`
      - subclass : `Customer` & `VIPCustomer`
+
+# POSTEST 4
+1. Abstraction
+- Abstract class yaitu kelass yang hanya sebagai kerangka, tidak bisa langsung dibuat objeknya. Memiliki metode abstract yang harus diisi oleh kelas turunannya  dan  membuat kode yg lebih rapi dan terorganisir. Penerapan abstract class dilakukan di superclass person.
+
+<img width="452" height="472" alt="image" src="https://github.com/user-attachments/assets/b96971a9-9d60-436e-861f-4879537132eb" />
+
+2. Overloading
+- Penerapan method overloading dilakukan dalam banyak metode dengan nama sama tapi mwiliki parameter yang berbeda.
+Penerapan overloading ini saya terapkan dalam menambahkan data reservasi custumer baru.
+
+<img width="914" height="80" alt="image" src="https://github.com/user-attachments/assets/f42a8bfd-4daf-45b7-acab-7bbab0cbc62a" />
+
+Output:
+
+<img width="1198" height="279" alt="image" src="https://github.com/user-attachments/assets/243e8aec-f4e3-4f9a-b78f-e17d59eb4039" />
+
+
+3. Overriding
+- Saya telah melakukan penerapan overriding pada postest 3 (Penjelasan beradi di Penerapan Nilai Tambah)
+
+
     
 ## Penerapan Nilai Tambah
 1. Overriding
-   - Method `getRole()` di Person diioverride oleh Customer, Staff, dan VIPCustomer.
+Method overriding = kelas turunan mengubah metode yang sudah ada di superclass. Nama, tipe kembalian, dan parameter harus sama.
+   - Method `getRole()` di Person diioverride oleh Customer, dan VIPCustomer.
    - Method `toString()` juga dioverride sehinga menampilkan informasi berbeda (misalnya ada tambahan (VIP) untuk customer VIP).
 
 
