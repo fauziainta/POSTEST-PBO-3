@@ -81,6 +81,9 @@ Method overriding = kelas turunan mengubah metode yang sudah ada di superclass. 
 
    <img width="623" height="635" alt="image" src="https://github.com/user-attachments/assets/dc4a2cba-386d-469c-9375-da0d20033ef8" />
 
+   <img width="738" height="619" alt="image" src="https://github.com/user-attachments/assets/6968dafa-ee4f-439a-8f43-5fbb595da3c2" />
+
+
 ## Struktur Project
 
 <img width="276" height="247" alt="image" src="https://github.com/user-attachments/assets/e781ae49-9382-4736-9820-bf5cdbe76376" />
